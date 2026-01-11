@@ -63,4 +63,4 @@ Sudden auditory alarms can be jarring, triggering a startle response that shatte
     python -m haptic_pulse --interval 45 --strength 0.5
    ```
    <b>Strength</b> 0.1-1</br>
-   <b>Interval</b> How long a focus session should be in ms
+   <b>Interval</b> How long a focus session should be in min
