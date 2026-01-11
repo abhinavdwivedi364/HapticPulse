@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "haptic_pulse"
+version = "0.1.0"
+dependencies = [
+    "pygame-ce>=2.4.0",
+    "rich>=13.7.0",
+    "typer>=0.9.0",
+    "shellingham>=1.5.4"
+]
+
+[project.scripts]
+haptic-pulse = "haptic_pulse.cli:app"

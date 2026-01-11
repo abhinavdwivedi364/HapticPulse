@@ -1,0 +1,9 @@
+# Hardware-Ansteuerung & Event-Loop
+pygame-ce>=2.4.0
+
+# Terminal-Interface & Styling
+rich>=13.7.0
+typer>=0.9.0
+
+# Hilfstool für Typer (Shell-Erkennung)
+shellingham>=1.5.4

@@ -1,0 +1,2 @@
+[console_scripts]
+haptic-pulse = haptic_pulse.cli:app
