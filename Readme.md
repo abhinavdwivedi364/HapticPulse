@@ -2,7 +2,11 @@
 
 > **The Tactile Anchor for Neurodivergent Deep Work.**
 
-`HapticPulse` is a minimalist productivity tool designed for individuals with ADHD and executive dysfunction. It leverages the haptic hardware of a PlayStation 4 (DualShock 4) controller to provide non-intrusive "Focus Check-ins" through vibration.
+`HapticPulse` is a minimalist productivity tool designed for individuals with ADHD and executive dysfunction.
+
+Since not everyone has access to specialized devices or watches that bring this functionality, I experimented with other means to achieve this. This solution leverages the haptic hardware of a PlayStation 4 (DualShock 4) controller to provide non-intrusive "Focus Check-ins" through vibration. My reasoning was that probably many people have some sort of Gamecontroller at home lying around.
+
+This allows you to plugin the controller put it next to you on your desk while working and run this program.
 
 ---
 
